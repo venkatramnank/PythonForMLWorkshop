@@ -1,15 +1,19 @@
 # PythonForMLWorkshop
-Repo for ML workshop using python for UE19EC353: Machine Learning for the Jan-May 2022 at PES University
+This is the repository for ML workshop using python for UE19EC353: Machine Learning for the Jan-May 2022 at PES University.
+Dates held : 17 Jan to 21 Jan 2022
 
-# Agenda 
+## Agenda 
 - Day 1 : 
   - Introduction to Machine Learning Workshop. 
- Chapter 1 : Starting off with Numpy: Numerical Python
+  - Chapter 1 : Starting off with Numpy: Numerical Python
 - Day 2 : 
-Chapter 2 : Playing with tabular Data: Pandas
-Chapter 3 : Visualizing with Matplotlib
+  - Chapter 2 : Playing with tabular Data: Pandas
+  - Chapter 3 : Visualizing with Matplotlib
 - Day 3 : 
-Chapter 4 : Learning Scikit Learn: The Machine Learning Python tool
-Chapter 5 : Jumping Into Images: OpenCV
+  - Chapter 4 : Learning Scikit Learn: The Machine Learning Python tool
+  - Chapter 5 : Jumping Into Images: OpenCV
 - Day 4 :
-Chapter 6 : Going Deep : Tensorflow
+  - Chapter 6 : Going Deep : Tensorflow
+
+## Contact
+venkatramnank@pesu.pes.edu
