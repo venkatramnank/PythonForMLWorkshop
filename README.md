@@ -15,5 +15,8 @@ Dates held : 17 Jan to 21 Jan 2022
 - Day 4 :
   - Chapter 6 : Going Deep : Tensorflow
 
+## File structure
+Introductory PDF : https://github.com/venkatramnank/PythonForMLWorkshop/blob/main/PythonWorkshopML.pdf
+
 ## Contact
 venkatramnank@pesu.pes.edu
