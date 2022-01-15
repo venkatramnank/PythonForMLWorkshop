@@ -3,7 +3,7 @@ Repo for ML workshop using python for UE19EC353: Machine Learning for the Jan-Ma
 
 # Agenda 
 - Day 1 : 
-Introduction to Machine Learning Workshop. 
+  - Introduction to Machine Learning Workshop. 
  Chapter 1 : Starting off with Numpy: Numerical Python
 - Day 2 : 
 Chapter 2 : Playing with tabular Data: Pandas
