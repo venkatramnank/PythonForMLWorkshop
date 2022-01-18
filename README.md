@@ -1,6 +1,6 @@
 # PythonForMLWorkshop
 This is the repository for ML workshop using python for UE19EC353: Machine Learning for the Jan-May 2022 at PES University.
-Dates held : 17 Jan to 21 Jan 2022
+Dates held : 22 Jan 2022 and 29 Jan 2022
 
 ## Agenda 
 - Day 1 : 
