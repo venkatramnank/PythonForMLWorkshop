@@ -20,7 +20,7 @@ Introductory PDF : https://github.com/venkatramnank/PythonForMLWorkshop/blob/mai
 Day 1 resources : https://github.com/venkatramnank/PythonForMLWorkshop/tree/main/Day1
 
 ## Link to MS Teams
-https://teams.microsoft.com/l/team/19%3aoOnGXFL6EIdnExB7vv0KHRRkpJ_ZfuEjsfANRApAHAM1%40thread.tacv2/conversations?groupId=36cd3c5e-04b9-490a-9bf6-d39fd8909e04&tenantId=e290fb02-d184-4a8c-ae49-c83b04485909
+https://teams.microsoft.com/l/meetup-join/19%3AoOnGXFL6EIdnExB7vv0KHRRkpJ_ZfuEjsfANRApAHAM1%40thread.tacv2/1642587459465?context=%7B%22Tid%22%3A%22e290fb02-d184-4a8c-ae49-c83b04485909%22%2C%22Oid%22%3A%2267748168-2780-4708-9af0-486f4bd77a00%22%2C%22MessageId%22%3A%221642587459465%22%7D
 
 ## Contact
 venkatramnank@pesu.pes.edu
