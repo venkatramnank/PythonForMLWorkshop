@@ -13,6 +13,7 @@ Dates held : Thursdays of January - Feb  2022
   - Chapter 4 : Learning Scikit Learn: The Machine Learning Python tool
   - Chapter 5 : Jumping Into Images: OpenCV
 - Day 4 :
+  - Chapter 5 : Jumping Into Images: OpenCV
   - Chapter 6 : Going Deep : Tensorflow
 
 ## File structure
