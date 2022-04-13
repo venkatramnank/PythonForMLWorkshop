@@ -1,1 +1,0 @@
-This folder contains information on the lab projects for the UE19EC353: Machine Learning course. 
